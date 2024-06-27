@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Orange\Desktop\CSharp\Task 6-27-2024\Task3\Task3\obj\Debug\Task3.pdb

@@ -74,24 +74,27 @@ namespace Task2
 
             //Q8
             string[] sentences = new string[] {
-                "Hello World!",
-                "What are you doing here?",
-                "Can you do more code so you can be better in this field!",
-                "Hi",
-                "You think you can be better, but guess what is waiting for yoy.",
-                };
-            int fixedLength = 10;
-            PrintSentence(sentences, fixedLength, 0);
-            PrintSentence(sentences, fixedLength, 1);
-            PrintSentence(sentences, fixedLength, 2);
-            PrintSentence(sentences, fixedLength, 3);
-            PrintSentence(sentences, fixedLength, 4);
-        }
-            static void PrintSentence(string[] sentences, int fixedLength, int index)
-            {
-                string Sentence = sentences[index].PadRight(fixedLength).Substring(0, fixedLength);
-                Console.WriteLine(Sentence);
+            "Hello World!",
+            "What are you doing here?",
+            "Can you do more code so you can be better in this field!",
+            "Hi my name is lujain",
+            "You think you can be better, but guess what is waiting for you."
+        };
 
-            }
+            string st1 = sentences[0];
+            string st2 = sentences[1];
+            string st3 = sentences[2];
+            string st4 = sentences[3];
+            string st5 = sentences[4];
+
+            Console.WriteLine(st1.Substring(0, 5));
+            Console.WriteLine(st2.Substring(0, 5));
+            Console.WriteLine(st3.Substring(0, 5));
+            Console.WriteLine(st4.Substring(0, 5));
+            Console.WriteLine(st5.Substring(0, 5));
+
+
         }
+
+    }
     }
