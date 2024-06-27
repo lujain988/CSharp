@@ -110,6 +110,7 @@ namespace Task3
 
 
             }
+            //Q7
             int row = 4;
             int q = 1;
             int num = 1;
