@@ -78,12 +78,14 @@ namespace Task3
             for (int i = 1; count < n; i += 2)
             {
                 if (i > 100) break;
-                Console.WriteLine(i);
-                summ += i;
-                count++;
+                {
+                    Console.WriteLine(i);
+                    summ += i;
+                    count++;
+                }
             }
 
-            Console.WriteLine("\nThe Sum of odd numbers is: " + sum);
+            Console.WriteLine("\nThe Sum of odd numbers is: " + summ);
 
             //Q6
             int rows = 20;
