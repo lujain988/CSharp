@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 06-30-2024\\Task4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03746E0-8D0E-4690-A9BB-B21BC559BCE3}|Task4\\Task4.csproj|c:\\users\\orange\\desktop\\csharp\\task 06-30-2024\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D03746E0-8D0E-4690-A9BB-B21BC559BCE3}|Task4\\Task4.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 06-30-2024\\Task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03746E0-8D0E-4690-A9BB-B21BC559BCE3}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D03746E0-8D0E-4690-A9BB-B21BC559BCE3}|Task4\\Task4.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 06-30-2024\\Task4\\task4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D03746E0-8D0E-4690-A9BB-B21BC559BCE3}|Task4\\Task4.csproj|c:\\users\\orange\\desktop\\csharp\\task 06-30-2024\\task4\\task4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03746E0-8D0E-4690-A9BB-B21BC559BCE3}|Task4\\Task4.csproj|solutionrelative:task4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "Task4\\Class1.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 06-30-2024\\Task4\\Task4\\Class1.cs",
               "RelativeToolTip": "Task4\\Class1.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAiwFoAAAAJAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wEQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T17:07:28.975Z"
+              "WhenOpened": "2024-06-30T17:07:28.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "Task4\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 06-30-2024\\Task4\\Task4\\Program.cs",
               "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAADwAAAA4AAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T16:59:14.799Z",
               "EditorCaption": ""

@@ -12,7 +12,6 @@ namespace Task4
         static void Main(string[] args)
         //Q1
         {
-            Mathoperation mathOps = new Mathoperation();
             double[] numbers = new double[10];
             Console.WriteLine("Enter 10 numbers ");
             for (int i = 0; i < numbers.Length; i++)
@@ -21,17 +20,18 @@ namespace Task4
                 numbers[i] = double.Parse(Console.ReadLine());
 
             }
-            var resultt = Mathoperation.CalculatSandA(numbers);
+            var resultt = CalculateSA(numbers);
             Console.WriteLine($"The sum of the numbers is {resultt.sum}.");
-            Console.WriteLine($"The average of the numbers is {resultt.averagee}.");
+            Console.WriteLine($"The average of the numbers is {resultt.average}.");
 
             //Q2
             Console.Write("Input number of terms: ");
             int n = int.Parse(Console.ReadLine());
+
             for (int i = 1; i <= n; i++)
             {
-                Cube cubee = new Cube(i);
-                Console.WriteLine($"Number is : {i} is :{cubee.CalculateCube()}");
+                double cube = CalculateCube(i);
+                Console.WriteLine($"Number {i} cubed is: {cube}");
             }
 
             //Q3
@@ -80,22 +80,30 @@ namespace Task4
             }
             Console.WriteLine("Write phone number: ");
             person.SetPhone(Console.ReadLine());
+            Console.WriteLine("****************************************");
 
-            DisplayPersonInfo(person);
+
+            person.DisplayPersonInfo();
 
         }
-        public static void DisplayPersonInfo(Info person)
+      
+        //Q1
+        public static (double sum, double average) CalculateSA(double[] numbers)
         {
-            Console.WriteLine($"Name: {person.Name}\nAge: {person.Age}\nGender: {person.Gender}\nEmail: {person.Email}\nID: {person.ID}\nPhone: {person.Phone}");
+            double sum = 0;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum += numbers[i];
+            }
+            double average = sum / numbers.Length;
+            return (sum, average);
         }
-        public static int AgeInDays(int years)
+        //Q2
+        public static double CalculateCube(double number)
         {
-            DateTime currentDate = DateTime.Now;
-            DateTime birthDate = currentDate.AddYears(-years);
-            TimeSpan ageSpan = currentDate - birthDate;
-            return ageSpan.Days;
-
+            return number * number * number;
         }
+        //Q3
         public static int[] GetYear(int[] years)
         {
             List<int> reuslt = new List<int>();
@@ -108,7 +116,15 @@ namespace Task4
             }
             return reuslt.ToArray();
         }
+        //Q4
+        public static int AgeInDays(int years)
+        {
+            DateTime currentDate = DateTime.Now;
+            DateTime birthDate = currentDate.AddYears(-years);
+            TimeSpan ageSpan = currentDate - birthDate;
+            return ageSpan.Days;
 
+        }
 
 
     }

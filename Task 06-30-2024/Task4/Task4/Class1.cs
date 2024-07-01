@@ -8,35 +8,10 @@ using System.Timers;
 
 namespace Task4
 {
+    
 
-    public class Mathoperation
-    {
-
-        public static (double sum, double averagee) CalculatSandA(double[] numbers)
-        {
-            double sum = 0;
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                sum += numbers[i];
-            }
-            double averagee = sum / numbers.Length;
-            return (sum, averagee);
-        }
-    }
-    public class Cube
-    {
-        public double X;
-        public Cube(double x)
-        {
-            X = x;
-        }
-        public double CalculateCube()
-        {
-            return X * X * X;
-
-        }
-
-    }
+   
+    //Q5
     public class Info
     {
         public int Age;
@@ -91,7 +66,15 @@ namespace Task4
         }
 
 
-
+        public void DisplayPersonInfo()
+        {
+            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Age: {Age}");
+            Console.WriteLine($"Gender: {Gender}");
+            Console.WriteLine($"Email: {Email}");
+            Console.WriteLine($"ID: {ID}");
+            Console.WriteLine($"Phone: {Phone}");
+        }
     }
 }
 
