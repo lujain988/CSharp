@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-01-2024\\Task 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FDAFC93-A710-4166-97E0-5C90E0D88BBD}|Task 5\\Task 5.csproj|c:\\users\\orange\\desktop\\csharp\\task 07-01-2024\\task 5\\task 5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FDAFC93-A710-4166-97E0-5C90E0D88BBD}|Task 5\\Task 5.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-01-2024\\Task 5\\task 5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDAFC93-A710-4166-97E0-5C90E0D88BBD}|Task 5\\Task 5.csproj|solutionrelative:task 5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FDAFC93-A710-4166-97E0-5C90E0D88BBD}|Task 5\\Task 5.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-01-2024\\Task 5\\task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FDAFC93-A710-4166-97E0-5C90E0D88BBD}|Task 5\\Task 5.csproj|c:\\users\\orange\\desktop\\csharp\\task 07-01-2024\\task 5\\task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDAFC93-A710-4166-97E0-5C90E0D88BBD}|Task 5\\Task 5.csproj|solutionrelative:task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Task 5\\Car.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-01-2024\\Task 5\\Task 5\\Car.cs",
               "RelativeToolTip": "Task 5\\Car.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAswGIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T18:00:52.62Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Task 5\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-01-2024\\Task 5\\Task 5\\Program.cs",
               "RelativeToolTip": "Task 5\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:57:54.995Z",
               "EditorCaption": ""

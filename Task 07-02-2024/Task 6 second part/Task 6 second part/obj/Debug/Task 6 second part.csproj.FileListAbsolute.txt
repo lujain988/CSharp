@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\obj\Debug\Task 6 second part.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\obj\Debug\Task 6 second part.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\bin\Debug\Task 6 second part.exe.config
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\bin\Debug\Task 6 second part.exe
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\bin\Debug\Task 6 second part.pdb
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\obj\Debug\Task 6 second part.exe
+C:\Users\Orange\Desktop\CSharp\Task 07-02-2024\Task 6 second part\Task 6 second part\obj\Debug\Task 6 second part.pdb
