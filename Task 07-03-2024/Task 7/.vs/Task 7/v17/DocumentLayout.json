@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|c:\\users\\orange\\desktop\\csharp\\task 07-03-2024\\task 7\\task 7\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|solutionrelative:task 7\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\task 7\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|solutionrelative:task 7\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\task 7\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|solutionrelative:task 7\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\task 7\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8CB8FD-267A-4451-9986-8C8A66F43384}|Task 7\\Task 7.csproj|solutionrelative:task 7\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "Task 7\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm2.aspx.cs",
+              "RelativeToolTip": "Task 7\\WebForm2.aspx.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:11:34.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "Task 7\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm2.aspx",
+              "RelativeToolTip": "Task 7\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T17:50:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Task 7\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Task 7\\WebForm1.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:45:54.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Task 7\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\Task 07-03-2024\\Task 7\\Task 7\\WebForm1.aspx",
+              "RelativeToolTip": "Task 7\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T17:45:19.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
